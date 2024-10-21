@@ -51,7 +51,7 @@ To run this project, you need to have the following installed on your system:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/roshangeorge97/StudySync
+   https://github.com/772003pranav/study.git
    ```
 
 2. Navigate to the project directory:
